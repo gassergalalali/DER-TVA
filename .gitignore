@@ -1,0 +1,17 @@
+.idea
+*.ipynb_checkpoints*
+*__pycache__*
+**tmp**
+**.gzip
+**.pickle
+.pytest_cache
+**~$**
+.venv
+venv
+**.egg-info
+**.ropeproject
+**scratch**
+**.log
+**joblib_cache**
+**.png
+**joblib_memory**

@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+networkx
+statsmodels
+rich
+tqdm
+openpyxl
+xlrd
+pytest
+rich
+pylint
+autopep8
+ipykernel
+joblib
